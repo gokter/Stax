@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ns:books>
+	<ns:book id="1">
+		<ns:name>Java</ns:name>
+		<ns:price>88.8</ns:price>
+	</ns:book>
+</ns:books>
